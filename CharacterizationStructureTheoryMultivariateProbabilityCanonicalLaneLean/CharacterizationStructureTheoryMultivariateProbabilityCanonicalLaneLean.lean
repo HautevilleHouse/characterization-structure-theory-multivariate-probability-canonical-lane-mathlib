@@ -1,0 +1,9 @@
+import CharacterizationStructureTheoryMultivariateProbabilityCanonicalLaneLean.AdmissibleClass
+
+namespace HautevilleHouse
+namespace CharacterizationStructureTheoryMultivariateProbabilityCanonicalLaneLean
+
+-- This module is the root of the CharacterizationStructureTheoryMultivariateProbabilityCanonicalLaneLean Lean proof package.
+
+end CharacterizationStructureTheoryMultivariateProbabilityCanonicalLaneLean
+end HautevilleHouse
